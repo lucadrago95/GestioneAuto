@@ -1,3 +1,2 @@
-# GestioneAuto
-
-gestionale di parco auto con varie funzioni
+# Parcheggio-java
+esercitazione in java 
